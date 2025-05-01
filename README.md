@@ -3,12 +3,6 @@
 Welcome to this beginner-friendly Object Detection project using YOLOv8 ! This repo helps you detect objects in real-time using your webcam. It's simple, fun and perfect for getting started with computer vision ! 🎥✨
 
 
-## Screenshots 📸
-
-Check out these cool detection results !
-
-
-
 ## Prerequisites ✅
 
 Before you dive in, make sure you have:
