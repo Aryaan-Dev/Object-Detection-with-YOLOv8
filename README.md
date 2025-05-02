@@ -30,7 +30,7 @@ Follow these steps to get the project up and running:
    Clone this repo to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/object-detection-yolov8.git
+   git clone https://github.com/Aryaan-Dev/object-detection-yolov8.git
    cd object-detection-yolov8
    ```
 
